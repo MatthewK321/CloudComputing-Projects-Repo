@@ -13,7 +13,7 @@ This project was completed as part of the **Microsoft Azure Data Fundamentals (D
   - Platform as a Service (PaaS)
   - Software as a Service (SaaS)
 - Comparing deployment models including Public, Private, Hybrid, and Community Cloud environments.
-- Evaluating Azure pricing and resource planning using Azure cost estimation tools. 【1-365c85】
+- Evaluating Azure pricing and resource planning using Azure cost estimation tools. 
 
 ### Relational Data with Azure SQL Database
 Worked with **Azure SQL Database** to understand relational database concepts and structured data management.
@@ -34,7 +34,7 @@ Example business questions answered:
 - Which products generated the highest sales revenue?
 - Which regions achieved the greatest number of transactions?
 - What were the monthly sales trends?
-- Which customers made the most purchases? 【1-365c85】
+- Which customers made the most purchases? 
 
 ### Non-Relational Data with Azure Storage and Azure Cosmos DB
 Explored Azure services designed for storing and managing unstructured and semi-structured data.
@@ -61,7 +61,7 @@ Key areas explored:
 - Understanding how structured and unstructured data can coexist within a unified analytics platform.
 - Building foundations for reporting and business intelligence.
 - Creating insights from enterprise-scale datasets.
-- Integrating data for downstream Power BI reporting and visualisation. 【1-365c85】
+- Integrating data for downstream Power BI reporting and visualisation. 
 
 ## Data Ingestion and Processing
 
